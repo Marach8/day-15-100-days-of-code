@@ -48,7 +48,7 @@ while True:
       continue    
   elif ask == 'lion':
     print()
-    print(f'A {ask} roars and it is very dreadful !')
+    print(f'A {ask} roars and it is very dreadful!')
     print()
     exit = input('Do you want to play again?: ')
     if exit == 'n':
